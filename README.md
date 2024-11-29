@@ -57,5 +57,3 @@ Code Structure 🗂️
 - Modular Design: Organized code into functions for readability and maintenance.
 - Error Handling: Includes checks for valid image files and handles exceptions gracefully.
 - Comments and Documentation: Well-documented code for understanding and future development.
-
-# Enjoy creating beautiful mosaics with the 1989 Mosaics Project, and happy coding! 🎉
